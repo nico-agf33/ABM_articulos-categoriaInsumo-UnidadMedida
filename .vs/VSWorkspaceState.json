@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\about-us",
+    "\\src\\components\\categorias-insumo-modal",
+    "\\src\\components\\categorias-insumo-tabla",
+    "\\src\\components\\delete-button",
+    "\\src\\components\\header",
+    "\\src\\components\\unidad-medida-modal",
+    "\\src\\components\\unidad-medida-tabla"
+  ],
+  "SelectedNode": "\\src\\routes\\AppRoutes.tsx",
+  "PreviewInSolutionExplorer": false
+}
